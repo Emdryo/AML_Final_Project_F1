@@ -1,0 +1,1118 @@
+{
+  "by_year_and_number": {
+    "2023": {
+      "1": {
+        "driver_number": 1,
+        "full_name": "Max VERSTAPPEN",
+        "first_name": "Max",
+        "last_name": "Verstappen",
+        "name_acronym": "VER",
+        "team_name": "Red Bull Racing",
+        "team_colour": "3671C6",
+        "broadcast_name": "M VERSTAPPEN"
+      },
+      "2": {
+        "driver_number": 2,
+        "full_name": "Logan SARGEANT",
+        "first_name": "Logan",
+        "last_name": "Sargeant",
+        "name_acronym": "SAR",
+        "team_name": "Williams",
+        "team_colour": "37BEDD",
+        "broadcast_name": "L SARGEANT"
+      },
+      "4": {
+        "driver_number": 4,
+        "full_name": "Lando NORRIS",
+        "first_name": "Lando",
+        "last_name": "Norris",
+        "name_acronym": "NOR",
+        "team_name": "McLaren",
+        "team_colour": "F58020",
+        "broadcast_name": "L NORRIS"
+      },
+      "10": {
+        "driver_number": 10,
+        "full_name": "Pierre GASLY",
+        "first_name": "Pierre",
+        "last_name": "Gasly",
+        "name_acronym": "GAS",
+        "team_name": "Alpine",
+        "team_colour": "2293D1",
+        "broadcast_name": "P GASLY"
+      },
+      "14": {
+        "driver_number": 14,
+        "full_name": "Fernando ALONSO",
+        "first_name": "Fernando",
+        "last_name": "Alonso",
+        "name_acronym": "ALO",
+        "team_name": "Aston Martin",
+        "team_colour": "358C75",
+        "broadcast_name": "F ALONSO"
+      },
+      "16": {
+        "driver_number": 16,
+        "full_name": "Charles LECLERC",
+        "first_name": "Charles",
+        "last_name": "Leclerc",
+        "name_acronym": "LEC",
+        "team_name": "Ferrari",
+        "team_colour": "F91536",
+        "broadcast_name": "C LECLERC"
+      },
+      "20": {
+        "driver_number": 20,
+        "full_name": "Kevin MAGNUSSEN",
+        "first_name": "Kevin",
+        "last_name": "Magnussen",
+        "name_acronym": "MAG",
+        "team_name": "Haas F1 Team",
+        "team_colour": "B6BABD",
+        "broadcast_name": "K MAGNUSSEN"
+      },
+      "21": {
+        "driver_number": 21,
+        "full_name": "Nyck DE VRIES",
+        "first_name": "Nyck",
+        "last_name": "De Vries",
+        "name_acronym": "DEV",
+        "team_name": "AlphaTauri",
+        "team_colour": "5E8FAA",
+        "broadcast_name": "N DE VRIES"
+      },
+      "22": {
+        "driver_number": 22,
+        "full_name": "Yuki TSUNODA",
+        "first_name": "Yuki",
+        "last_name": "Tsunoda",
+        "name_acronym": "TSU",
+        "team_name": "AlphaTauri",
+        "team_colour": "5E8FAA",
+        "broadcast_name": "Y TSUNODA"
+      },
+      "23": {
+        "driver_number": 23,
+        "full_name": "Alexander ALBON",
+        "first_name": "Alexander",
+        "last_name": "Albon",
+        "name_acronym": "ALB",
+        "team_name": "Williams",
+        "team_colour": "37BEDD",
+        "broadcast_name": "A ALBON"
+      },
+      "24": {
+        "driver_number": 24,
+        "full_name": "ZHOU Guanyu",
+        "first_name": "Guanyu",
+        "last_name": "Zhou",
+        "name_acronym": "ZHO",
+        "team_name": "Alfa Romeo",
+        "team_colour": "C92D4B",
+        "broadcast_name": "G ZHOU"
+      },
+      "27": {
+        "driver_number": 27,
+        "full_name": "Nico HULKENBERG",
+        "first_name": "Nico",
+        "last_name": "Hulkenberg",
+        "name_acronym": "HUL",
+        "team_name": "Haas F1 Team",
+        "team_colour": "B6BABD",
+        "broadcast_name": "N HULKENBERG"
+      },
+      "31": {
+        "driver_number": 31,
+        "full_name": "Esteban OCON",
+        "first_name": "Esteban",
+        "last_name": "Ocon",
+        "name_acronym": "OCO",
+        "team_name": "Alpine",
+        "team_colour": "2293D1",
+        "broadcast_name": "E OCON"
+      },
+      "34": {
+        "driver_number": 34,
+        "full_name": "Felipe DRUGOVICH",
+        "first_name": "Felipe",
+        "last_name": "Drugovich",
+        "name_acronym": "DRU",
+        "team_name": "Aston Martin",
+        "team_colour": "358C75",
+        "broadcast_name": "F DRUGOVICH"
+      },
+      "44": {
+        "driver_number": 44,
+        "full_name": "Lewis HAMILTON",
+        "first_name": "Lewis",
+        "last_name": "Hamilton",
+        "name_acronym": "HAM",
+        "team_name": "Mercedes",
+        "team_colour": "6CD3BF",
+        "broadcast_name": "L HAMILTON"
+      },
+      "55": {
+        "driver_number": 55,
+        "full_name": "Carlos SAINZ",
+        "first_name": "Carlos",
+        "last_name": "Sainz",
+        "name_acronym": "SAI",
+        "team_name": "Ferrari",
+        "team_colour": "F91536",
+        "broadcast_name": "C SAINZ"
+      },
+      "63": {
+        "driver_number": 63,
+        "full_name": "George RUSSELL",
+        "first_name": "George",
+        "last_name": "Russell",
+        "name_acronym": "RUS",
+        "team_name": "Mercedes",
+        "team_colour": "6CD3BF",
+        "broadcast_name": "G RUSSELL"
+      },
+      "77": {
+        "driver_number": 77,
+        "full_name": "Valtteri BOTTAS",
+        "first_name": "Valtteri",
+        "last_name": "Bottas",
+        "name_acronym": "BOT",
+        "team_name": "Alfa Romeo",
+        "team_colour": "C92D4B",
+        "broadcast_name": "V BOTTAS"
+      },
+      "81": {
+        "driver_number": 81,
+        "full_name": "Oscar PIASTRI",
+        "first_name": "Oscar",
+        "last_name": "Piastri",
+        "name_acronym": "PIA",
+        "team_name": "McLaren",
+        "team_colour": "F58020",
+        "broadcast_name": "O PIASTRI"
+      },
+      "11": {
+        "driver_number": 11,
+        "full_name": "Sergio PEREZ",
+        "first_name": "Sergio",
+        "last_name": "Perez",
+        "name_acronym": "PER",
+        "team_name": "Red Bull Racing",
+        "team_colour": "3671C6",
+        "broadcast_name": "S PEREZ"
+      },
+      "18": {
+        "driver_number": 18,
+        "full_name": "Lance STROLL",
+        "first_name": "Lance",
+        "last_name": "Stroll",
+        "name_acronym": "STR",
+        "team_name": "Aston Martin",
+        "team_colour": "358C75",
+        "broadcast_name": "L STROLL"
+      },
+      "3": {
+        "driver_number": 3,
+        "full_name": "Daniel RICCIARDO",
+        "first_name": "Daniel",
+        "last_name": "Ricciardo",
+        "name_acronym": "RIC",
+        "team_name": "AlphaTauri",
+        "team_colour": "5E8FAA",
+        "broadcast_name": "D RICCIARDO"
+      },
+      "40": {
+        "driver_number": 40,
+        "full_name": "Liam LAWSON",
+        "first_name": "Liam",
+        "last_name": "Lawson",
+        "name_acronym": "LAW",
+        "team_name": "AlphaTauri",
+        "team_colour": "5E8FAA",
+        "broadcast_name": "L LAWSON"
+      }
+    },
+    "2024": {
+      "1": {
+        "driver_number": 1,
+        "full_name": "Max VERSTAPPEN",
+        "first_name": "Max",
+        "last_name": "Verstappen",
+        "name_acronym": "VER",
+        "team_name": "Red Bull Racing",
+        "team_colour": "3671C6",
+        "broadcast_name": "M VERSTAPPEN"
+      },
+      "2": {
+        "driver_number": 2,
+        "full_name": "Logan SARGEANT",
+        "first_name": "Logan",
+        "last_name": "Sargeant",
+        "name_acronym": "SAR",
+        "team_name": "Williams",
+        "team_colour": "64C4FF",
+        "broadcast_name": "L SARGEANT"
+      },
+      "3": {
+        "driver_number": 3,
+        "full_name": "Daniel RICCIARDO",
+        "first_name": "Daniel",
+        "last_name": "Ricciardo",
+        "name_acronym": "RIC",
+        "team_name": "RB",
+        "team_colour": "6692FF",
+        "broadcast_name": "D RICCIARDO"
+      },
+      "4": {
+        "driver_number": 4,
+        "full_name": "Lando NORRIS",
+        "first_name": "Lando",
+        "last_name": "Norris",
+        "name_acronym": "NOR",
+        "team_name": "McLaren",
+        "team_colour": "FF8000",
+        "broadcast_name": "L NORRIS"
+      },
+      "10": {
+        "driver_number": 10,
+        "full_name": "Pierre GASLY",
+        "first_name": "Pierre",
+        "last_name": "Gasly",
+        "name_acronym": "GAS",
+        "team_name": "Alpine",
+        "team_colour": "0093cc",
+        "broadcast_name": "P GASLY"
+      },
+      "11": {
+        "driver_number": 11,
+        "full_name": "Sergio PEREZ",
+        "first_name": "Sergio",
+        "last_name": "Perez",
+        "name_acronym": "PER",
+        "team_name": "Red Bull Racing",
+        "team_colour": "3671C6",
+        "broadcast_name": "S PEREZ"
+      },
+      "14": {
+        "driver_number": 14,
+        "full_name": "Fernando ALONSO",
+        "first_name": "Fernando",
+        "last_name": "Alonso",
+        "name_acronym": "ALO",
+        "team_name": "Aston Martin",
+        "team_colour": "229971",
+        "broadcast_name": "F ALONSO"
+      },
+      "16": {
+        "driver_number": 16,
+        "full_name": "Charles LECLERC",
+        "first_name": "Charles",
+        "last_name": "Leclerc",
+        "name_acronym": "LEC",
+        "team_name": "Ferrari",
+        "team_colour": "E80020",
+        "broadcast_name": "C LECLERC"
+      },
+      "18": {
+        "driver_number": 18,
+        "full_name": "Lance STROLL",
+        "first_name": "Lance",
+        "last_name": "Stroll",
+        "name_acronym": "STR",
+        "team_name": "Aston Martin",
+        "team_colour": "229971",
+        "broadcast_name": "L STROLL"
+      },
+      "20": {
+        "driver_number": 20,
+        "full_name": "Kevin MAGNUSSEN",
+        "first_name": "Kevin",
+        "last_name": "Magnussen",
+        "name_acronym": "MAG",
+        "team_name": "Haas F1 Team",
+        "team_colour": "B6BABD",
+        "broadcast_name": "K MAGNUSSEN"
+      },
+      "22": {
+        "driver_number": 22,
+        "full_name": "Yuki TSUNODA",
+        "first_name": "Yuki",
+        "last_name": "Tsunoda",
+        "name_acronym": "TSU",
+        "team_name": "RB",
+        "team_colour": "6692FF",
+        "broadcast_name": "Y TSUNODA"
+      },
+      "23": {
+        "driver_number": 23,
+        "full_name": "Alexander ALBON",
+        "first_name": "Alexander",
+        "last_name": "Albon",
+        "name_acronym": "ALB",
+        "team_name": "Williams",
+        "team_colour": "64C4FF",
+        "broadcast_name": "A ALBON"
+      },
+      "24": {
+        "driver_number": 24,
+        "full_name": "ZHOU Guanyu",
+        "first_name": "Guanyu",
+        "last_name": "Zhou",
+        "name_acronym": "ZHO",
+        "team_name": "Kick Sauber",
+        "team_colour": "52e252",
+        "broadcast_name": "G ZHOU"
+      },
+      "27": {
+        "driver_number": 27,
+        "full_name": "Nico HULKENBERG",
+        "first_name": "Nico",
+        "last_name": "Hulkenberg",
+        "name_acronym": "HUL",
+        "team_name": "Haas F1 Team",
+        "team_colour": "B6BABD",
+        "broadcast_name": "N HULKENBERG"
+      },
+      "31": {
+        "driver_number": 31,
+        "full_name": "Esteban OCON",
+        "first_name": "Esteban",
+        "last_name": "Ocon",
+        "name_acronym": "OCO",
+        "team_name": "Alpine",
+        "team_colour": "0093cc",
+        "broadcast_name": "E OCON"
+      },
+      "44": {
+        "driver_number": 44,
+        "full_name": "Lewis HAMILTON",
+        "first_name": "Lewis",
+        "last_name": "Hamilton",
+        "name_acronym": "HAM",
+        "team_name": "Mercedes",
+        "team_colour": "27F4D2",
+        "broadcast_name": "L HAMILTON"
+      },
+      "55": {
+        "driver_number": 55,
+        "full_name": "Carlos SAINZ",
+        "first_name": "Carlos",
+        "last_name": "Sainz",
+        "name_acronym": "SAI",
+        "team_name": "Ferrari",
+        "team_colour": "E80020",
+        "broadcast_name": "C SAINZ"
+      },
+      "63": {
+        "driver_number": 63,
+        "full_name": "George RUSSELL",
+        "first_name": "George",
+        "last_name": "Russell",
+        "name_acronym": "RUS",
+        "team_name": "Mercedes",
+        "team_colour": "27F4D2",
+        "broadcast_name": "G RUSSELL"
+      },
+      "77": {
+        "driver_number": 77,
+        "full_name": "Valtteri BOTTAS",
+        "first_name": "Valtteri",
+        "last_name": "Bottas",
+        "name_acronym": "BOT",
+        "team_name": "Kick Sauber",
+        "team_colour": "52e252",
+        "broadcast_name": "V BOTTAS"
+      },
+      "81": {
+        "driver_number": 81,
+        "full_name": "Oscar PIASTRI",
+        "first_name": "Oscar",
+        "last_name": "Piastri",
+        "name_acronym": "PIA",
+        "team_name": "McLaren",
+        "team_colour": "FF8000",
+        "broadcast_name": "O PIASTRI"
+      },
+      "38": {
+        "driver_number": 38,
+        "full_name": "Oliver BEARMAN",
+        "first_name": "Oliver",
+        "last_name": "Bearman",
+        "name_acronym": "BEA",
+        "team_name": "Ferrari",
+        "team_colour": "e8002d",
+        "broadcast_name": "O BEARMAN"
+      },
+      "43": {
+        "driver_number": 43,
+        "full_name": "Franco COLAPINTO",
+        "first_name": "Franco",
+        "last_name": "Colapinto",
+        "name_acronym": "COL",
+        "team_name": "Williams",
+        "team_colour": "64C4FF",
+        "broadcast_name": "F COLAPINTO"
+      },
+      "50": {
+        "driver_number": 50,
+        "full_name": "Oliver BEARMAN",
+        "first_name": "Oliver",
+        "last_name": "Bearman",
+        "name_acronym": "BEA",
+        "team_name": "Haas F1 Team",
+        "team_colour": "B6BABD",
+        "broadcast_name": "O BEARMAN"
+      },
+      "30": {
+        "driver_number": 30,
+        "full_name": "Liam LAWSON",
+        "first_name": "Liam",
+        "last_name": "Lawson",
+        "name_acronym": "LAW",
+        "team_name": "RB",
+        "team_colour": "6692FF",
+        "broadcast_name": "L LAWSON"
+      },
+      "61": {
+        "driver_number": 61,
+        "full_name": "Jack DOOHAN",
+        "first_name": "Jack",
+        "last_name": "Doohan",
+        "name_acronym": "DOO",
+        "team_name": "Alpine",
+        "team_colour": "0093cc",
+        "broadcast_name": "J DOOHAN"
+      }
+    },
+    "2025": {
+      "1": {
+        "driver_number": 1,
+        "full_name": "Max VERSTAPPEN",
+        "first_name": "Max",
+        "last_name": "Verstappen",
+        "name_acronym": "VER",
+        "team_name": "Red Bull Racing",
+        "team_colour": "4781D7",
+        "broadcast_name": "M VERSTAPPEN"
+      },
+      "4": {
+        "driver_number": 4,
+        "full_name": "Lando NORRIS",
+        "first_name": "Lando",
+        "last_name": "Norris",
+        "name_acronym": "NOR",
+        "team_name": "McLaren",
+        "team_colour": "F47600",
+        "broadcast_name": "L NORRIS"
+      },
+      "5": {
+        "driver_number": 5,
+        "full_name": "Gabriel BORTOLETO",
+        "first_name": "Gabriel",
+        "last_name": "Bortoleto",
+        "name_acronym": "BOR",
+        "team_name": "Kick Sauber",
+        "team_colour": "01C00E",
+        "broadcast_name": "G BORTOLETO"
+      },
+      "6": {
+        "driver_number": 6,
+        "full_name": "Isack HADJAR",
+        "first_name": "Isack",
+        "last_name": "Hadjar",
+        "name_acronym": "HAD",
+        "team_name": "Racing Bulls",
+        "team_colour": "6C98FF",
+        "broadcast_name": "I HADJAR"
+      },
+      "7": {
+        "driver_number": 7,
+        "full_name": "Jack DOOHAN",
+        "first_name": "Jack",
+        "last_name": "Doohan",
+        "name_acronym": "DOO",
+        "team_name": "Alpine",
+        "team_colour": "0093CC",
+        "broadcast_name": "J DOOHAN"
+      },
+      "10": {
+        "driver_number": 10,
+        "full_name": "Pierre GASLY",
+        "first_name": "Pierre",
+        "last_name": "Gasly",
+        "name_acronym": "GAS",
+        "team_name": "Alpine",
+        "team_colour": "00A1E8",
+        "broadcast_name": "P GASLY"
+      },
+      "12": {
+        "driver_number": 12,
+        "full_name": "Kimi ANTONELLI",
+        "first_name": "Kimi",
+        "last_name": "Antonelli",
+        "name_acronym": "ANT",
+        "team_name": "Mercedes",
+        "team_colour": "00D7B6",
+        "broadcast_name": "K ANTONELLI"
+      },
+      "14": {
+        "driver_number": 14,
+        "full_name": "Fernando ALONSO",
+        "first_name": "Fernando",
+        "last_name": "Alonso",
+        "name_acronym": "ALO",
+        "team_name": "Aston Martin",
+        "team_colour": "229971",
+        "broadcast_name": "F ALONSO"
+      },
+      "16": {
+        "driver_number": 16,
+        "full_name": "Charles LECLERC",
+        "first_name": "Charles",
+        "last_name": "Leclerc",
+        "name_acronym": "LEC",
+        "team_name": "Ferrari",
+        "team_colour": "ED1131",
+        "broadcast_name": "C LECLERC"
+      },
+      "18": {
+        "driver_number": 18,
+        "full_name": "Lance STROLL",
+        "first_name": "Lance",
+        "last_name": "Stroll",
+        "name_acronym": "STR",
+        "team_name": "Aston Martin",
+        "team_colour": "229971",
+        "broadcast_name": "L STROLL"
+      },
+      "22": {
+        "driver_number": 22,
+        "full_name": "Yuki TSUNODA",
+        "first_name": "Yuki",
+        "last_name": "Tsunoda",
+        "name_acronym": "TSU",
+        "team_name": "Red Bull Racing",
+        "team_colour": "4781D7",
+        "broadcast_name": "Y TSUNODA"
+      },
+      "23": {
+        "driver_number": 23,
+        "full_name": "Alexander ALBON",
+        "first_name": "Alexander",
+        "last_name": "Albon",
+        "name_acronym": "ALB",
+        "team_name": "Williams",
+        "team_colour": "1868DB",
+        "broadcast_name": "A ALBON"
+      },
+      "27": {
+        "driver_number": 27,
+        "full_name": "Nico HULKENBERG",
+        "first_name": "Nico",
+        "last_name": "Hulkenberg",
+        "name_acronym": "HUL",
+        "team_name": "Kick Sauber",
+        "team_colour": "01C00E",
+        "broadcast_name": "N HULKENBERG"
+      },
+      "30": {
+        "driver_number": 30,
+        "full_name": "Liam LAWSON",
+        "first_name": "Liam",
+        "last_name": "Lawson",
+        "name_acronym": "LAW",
+        "team_name": "Racing Bulls",
+        "team_colour": "6C98FF",
+        "broadcast_name": "L LAWSON"
+      },
+      "31": {
+        "driver_number": 31,
+        "full_name": "Esteban OCON",
+        "first_name": "Esteban",
+        "last_name": "Ocon",
+        "name_acronym": "OCO",
+        "team_name": "Haas F1 Team",
+        "team_colour": "9C9FA2",
+        "broadcast_name": "E OCON"
+      },
+      "44": {
+        "driver_number": 44,
+        "full_name": "Lewis HAMILTON",
+        "first_name": "Lewis",
+        "last_name": "Hamilton",
+        "name_acronym": "HAM",
+        "team_name": "Ferrari",
+        "team_colour": "ED1131",
+        "broadcast_name": "L HAMILTON"
+      },
+      "55": {
+        "driver_number": 55,
+        "full_name": "Carlos SAINZ",
+        "first_name": "Carlos",
+        "last_name": "Sainz",
+        "name_acronym": "SAI",
+        "team_name": "Williams",
+        "team_colour": "1868DB",
+        "broadcast_name": "C SAINZ"
+      },
+      "63": {
+        "driver_number": 63,
+        "full_name": "George RUSSELL",
+        "first_name": "George",
+        "last_name": "Russell",
+        "name_acronym": "RUS",
+        "team_name": "Mercedes",
+        "team_colour": "00D7B6",
+        "broadcast_name": "G RUSSELL"
+      },
+      "81": {
+        "driver_number": 81,
+        "full_name": "Oscar PIASTRI",
+        "first_name": "Oscar",
+        "last_name": "Piastri",
+        "name_acronym": "PIA",
+        "team_name": "McLaren",
+        "team_colour": "F47600",
+        "broadcast_name": "O PIASTRI"
+      },
+      "87": {
+        "driver_number": 87,
+        "full_name": "Oliver BEARMAN",
+        "first_name": "Oliver",
+        "last_name": "Bearman",
+        "name_acronym": "BEA",
+        "team_name": "Haas F1 Team",
+        "team_colour": "9C9FA2",
+        "broadcast_name": "O BEARMAN"
+      },
+      "43": {
+        "driver_number": 43,
+        "full_name": "Franco COLAPINTO",
+        "first_name": "Franco",
+        "last_name": "Colapinto",
+        "name_acronym": "COL",
+        "team_name": "Alpine",
+        "team_colour": "00A1E8",
+        "broadcast_name": "F COLAPINTO"
+      }
+    }
+  },
+  "by_acronym": {
+    "VER": {
+      "driver_number": 1,
+      "full_name": "Max VERSTAPPEN",
+      "first_name": "Max",
+      "last_name": "Verstappen",
+      "name_acronym": "VER",
+      "team_name": "Red Bull Racing",
+      "team_colour": "3671C6",
+      "broadcast_name": "M VERSTAPPEN",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "SAR": {
+      "driver_number": 2,
+      "full_name": "Logan SARGEANT",
+      "first_name": "Logan",
+      "last_name": "Sargeant",
+      "name_acronym": "SAR",
+      "team_name": "Williams",
+      "team_colour": "37BEDD",
+      "broadcast_name": "L SARGEANT",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "NOR": {
+      "driver_number": 4,
+      "full_name": "Lando NORRIS",
+      "first_name": "Lando",
+      "last_name": "Norris",
+      "name_acronym": "NOR",
+      "team_name": "McLaren",
+      "team_colour": "F58020",
+      "broadcast_name": "L NORRIS",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "GAS": {
+      "driver_number": 10,
+      "full_name": "Pierre GASLY",
+      "first_name": "Pierre",
+      "last_name": "Gasly",
+      "name_acronym": "GAS",
+      "team_name": "Alpine",
+      "team_colour": "2293D1",
+      "broadcast_name": "P GASLY",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "ALO": {
+      "driver_number": 14,
+      "full_name": "Fernando ALONSO",
+      "first_name": "Fernando",
+      "last_name": "Alonso",
+      "name_acronym": "ALO",
+      "team_name": "Aston Martin",
+      "team_colour": "358C75",
+      "broadcast_name": "F ALONSO",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "LEC": {
+      "driver_number": 16,
+      "full_name": "Charles LECLERC",
+      "first_name": "Charles",
+      "last_name": "Leclerc",
+      "name_acronym": "LEC",
+      "team_name": "Ferrari",
+      "team_colour": "F91536",
+      "broadcast_name": "C LECLERC",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "MAG": {
+      "driver_number": 20,
+      "full_name": "Kevin MAGNUSSEN",
+      "first_name": "Kevin",
+      "last_name": "Magnussen",
+      "name_acronym": "MAG",
+      "team_name": "Haas F1 Team",
+      "team_colour": "B6BABD",
+      "broadcast_name": "K MAGNUSSEN",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "DEV": {
+      "driver_number": 21,
+      "full_name": "Nyck DE VRIES",
+      "first_name": "Nyck",
+      "last_name": "De Vries",
+      "name_acronym": "DEV",
+      "team_name": "AlphaTauri",
+      "team_colour": "5E8FAA",
+      "broadcast_name": "N DE VRIES",
+      "years_active": [
+        2023
+      ]
+    },
+    "TSU": {
+      "driver_number": 22,
+      "full_name": "Yuki TSUNODA",
+      "first_name": "Yuki",
+      "last_name": "Tsunoda",
+      "name_acronym": "TSU",
+      "team_name": "AlphaTauri",
+      "team_colour": "5E8FAA",
+      "broadcast_name": "Y TSUNODA",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "ALB": {
+      "driver_number": 23,
+      "full_name": "Alexander ALBON",
+      "first_name": "Alexander",
+      "last_name": "Albon",
+      "name_acronym": "ALB",
+      "team_name": "Williams",
+      "team_colour": "37BEDD",
+      "broadcast_name": "A ALBON",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "ZHO": {
+      "driver_number": 24,
+      "full_name": "ZHOU Guanyu",
+      "first_name": "Guanyu",
+      "last_name": "Zhou",
+      "name_acronym": "ZHO",
+      "team_name": "Alfa Romeo",
+      "team_colour": "C92D4B",
+      "broadcast_name": "G ZHOU",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "HUL": {
+      "driver_number": 27,
+      "full_name": "Nico HULKENBERG",
+      "first_name": "Nico",
+      "last_name": "Hulkenberg",
+      "name_acronym": "HUL",
+      "team_name": "Haas F1 Team",
+      "team_colour": "B6BABD",
+      "broadcast_name": "N HULKENBERG",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "OCO": {
+      "driver_number": 31,
+      "full_name": "Esteban OCON",
+      "first_name": "Esteban",
+      "last_name": "Ocon",
+      "name_acronym": "OCO",
+      "team_name": "Alpine",
+      "team_colour": "2293D1",
+      "broadcast_name": "E OCON",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "DRU": {
+      "driver_number": 34,
+      "full_name": "Felipe DRUGOVICH",
+      "first_name": "Felipe",
+      "last_name": "Drugovich",
+      "name_acronym": "DRU",
+      "team_name": "Aston Martin",
+      "team_colour": "358C75",
+      "broadcast_name": "F DRUGOVICH",
+      "years_active": [
+        2023
+      ]
+    },
+    "HAM": {
+      "driver_number": 44,
+      "full_name": "Lewis HAMILTON",
+      "first_name": "Lewis",
+      "last_name": "Hamilton",
+      "name_acronym": "HAM",
+      "team_name": "Mercedes",
+      "team_colour": "6CD3BF",
+      "broadcast_name": "L HAMILTON",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "SAI": {
+      "driver_number": 55,
+      "full_name": "Carlos SAINZ",
+      "first_name": "Carlos",
+      "last_name": "Sainz",
+      "name_acronym": "SAI",
+      "team_name": "Ferrari",
+      "team_colour": "F91536",
+      "broadcast_name": "C SAINZ",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "RUS": {
+      "driver_number": 63,
+      "full_name": "George RUSSELL",
+      "first_name": "George",
+      "last_name": "Russell",
+      "name_acronym": "RUS",
+      "team_name": "Mercedes",
+      "team_colour": "6CD3BF",
+      "broadcast_name": "G RUSSELL",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "BOT": {
+      "driver_number": 77,
+      "full_name": "Valtteri BOTTAS",
+      "first_name": "Valtteri",
+      "last_name": "Bottas",
+      "name_acronym": "BOT",
+      "team_name": "Alfa Romeo",
+      "team_colour": "C92D4B",
+      "broadcast_name": "V BOTTAS",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "PIA": {
+      "driver_number": 81,
+      "full_name": "Oscar PIASTRI",
+      "first_name": "Oscar",
+      "last_name": "Piastri",
+      "name_acronym": "PIA",
+      "team_name": "McLaren",
+      "team_colour": "F58020",
+      "broadcast_name": "O PIASTRI",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "PER": {
+      "driver_number": 11,
+      "full_name": "Sergio PEREZ",
+      "first_name": "Sergio",
+      "last_name": "Perez",
+      "name_acronym": "PER",
+      "team_name": "Red Bull Racing",
+      "team_colour": "3671C6",
+      "broadcast_name": "S PEREZ",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "STR": {
+      "driver_number": 18,
+      "full_name": "Lance STROLL",
+      "first_name": "Lance",
+      "last_name": "Stroll",
+      "name_acronym": "STR",
+      "team_name": "Aston Martin",
+      "team_colour": "358C75",
+      "broadcast_name": "L STROLL",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "RIC": {
+      "driver_number": 3,
+      "full_name": "Daniel RICCIARDO",
+      "first_name": "Daniel",
+      "last_name": "Ricciardo",
+      "name_acronym": "RIC",
+      "team_name": "AlphaTauri",
+      "team_colour": "5E8FAA",
+      "broadcast_name": "D RICCIARDO",
+      "years_active": [
+        2023,
+        2024
+      ]
+    },
+    "LAW": {
+      "driver_number": 40,
+      "full_name": "Liam LAWSON",
+      "first_name": "Liam",
+      "last_name": "Lawson",
+      "name_acronym": "LAW",
+      "team_name": "AlphaTauri",
+      "team_colour": "5E8FAA",
+      "broadcast_name": "L LAWSON",
+      "years_active": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "BEA": {
+      "driver_number": 38,
+      "full_name": "Oliver BEARMAN",
+      "first_name": "Oliver",
+      "last_name": "Bearman",
+      "name_acronym": "BEA",
+      "team_name": "Ferrari",
+      "team_colour": "e8002d",
+      "broadcast_name": "O BEARMAN",
+      "years_active": [
+        2024,
+        2025
+      ]
+    },
+    "COL": {
+      "driver_number": 43,
+      "full_name": "Franco COLAPINTO",
+      "first_name": "Franco",
+      "last_name": "Colapinto",
+      "name_acronym": "COL",
+      "team_name": "Williams",
+      "team_colour": "64C4FF",
+      "broadcast_name": "F COLAPINTO",
+      "years_active": [
+        2024,
+        2025
+      ]
+    },
+    "DOO": {
+      "driver_number": 61,
+      "full_name": "Jack DOOHAN",
+      "first_name": "Jack",
+      "last_name": "Doohan",
+      "name_acronym": "DOO",
+      "team_name": "Alpine",
+      "team_colour": "0093cc",
+      "broadcast_name": "J DOOHAN",
+      "years_active": [
+        2024,
+        2025
+      ]
+    },
+    "BOR": {
+      "driver_number": 5,
+      "full_name": "Gabriel BORTOLETO",
+      "first_name": "Gabriel",
+      "last_name": "Bortoleto",
+      "name_acronym": "BOR",
+      "team_name": "Kick Sauber",
+      "team_colour": "52E252",
+      "broadcast_name": "G BORTOLETO",
+      "years_active": [
+        2025
+      ]
+    },
+    "HAD": {
+      "driver_number": 6,
+      "full_name": "Isack HADJAR",
+      "first_name": "Isack",
+      "last_name": "Hadjar",
+      "name_acronym": "HAD",
+      "team_name": "Racing Bulls",
+      "team_colour": "6692FF",
+      "broadcast_name": "I HADJAR",
+      "years_active": [
+        2025
+      ]
+    },
+    "ANT": {
+      "driver_number": 12,
+      "full_name": "Kimi ANTONELLI",
+      "first_name": "Kimi",
+      "last_name": "Antonelli",
+      "name_acronym": "ANT",
+      "team_name": "Mercedes",
+      "team_colour": "27F4D2",
+      "broadcast_name": "K ANTONELLI",
+      "years_active": [
+        2025
+      ]
+    }
+  }
+}
